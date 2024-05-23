@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background: black;
+    color: white;
+}
+
+.card{
+    background-color: rgb(39, 38, 38);
+}
+
+.l-gray{
+    background-color: rgb(65, 63, 63);
+}
